@@ -1,0 +1,150 @@
+1. TDD
+2. Unit Testing
+3. GraphQL
+4. OOP
+5. Prisma
+6. Helm
+7. Docker
+8. Kubernate
+9. Terraform
+10. CloudFormation
+11. E2E Testing
+12. SOLID
+13. CI/CD
+14. Scrum/Kanban
+15. Design Pattern
+16. Dependency Injection
+17. Microservice and Monolithic
+18. Event-driven Architecture and serverless Architecture
+19. RabbitMQ
+20. Apache Kafka
+21. Cloud Service
+22. SQL Injection? How to prevent it?
+23. Distributed System
+24. Message Brockers
+25. REST API
+26. Threads and Process
+27. Long Polling
+28. Observer Pattern
+29. Inversion of Control
+30. Progressive Rendering
+31. Lazy Loading
+32. Web Accessibility
+33. SasS and PaaS
+34. Entity Framework
+35. PWA
+36. Summary of code review
+37. Cross-Browser Compatibility
+38. WebSocket
+39. Interconnection between microservices.
+40. Imperative and Declarative programming
+41. Authentication and Authorization
+42. Role-based Access Control
+43. CORS and XSS and CSRF
+44. SSR and CSR
+45. VDOM and Real DOM
+46. Lifecycle of Component
+47. JSX
+48. Props and State
+49. Arrow Function
+50. Controlled and Uncontrolled Component
+51. Pure Component
+52. HOC
+53. Styled Component
+54. React Hook
+55. Redux
+56. Prop Drilling and how to avoid that?
+57. useEffect Hook
+58. Custom Hook
+59. useCallback
+60. useMemo
+61. Switch in ReactRouting
+62. Optimize React App
+63. Reconciliation and Diffing
+64. React Fragment
+65. Redux thunk and saga
+66. Pipes
+67. Pure and Impure in Angular
+68. Component and Service
+69. RxJS
+70. Observable and Promise
+71. Two way binding
+72. Decorator
+73. Stream API and Collection API
+74. Payload
+75. Mutable and Immutable Class
+76. Annotation
+77. Multi Threading in Java
+78. RestController and RequestMapping
+79. Hibernate and Spring JPA
+80. Intermediate Operation
+81. Terminal Operation
+82. List vs Set vs Queue
+83. DispatcherServlet of Spring MVC
+84. Controller vs REST Controller in Spring Boot.
+85. semantic HTML
+86. CQRS
+87. Middleware
+88. Razor and Blazor
+89. Media Query
+90. ORM
+91. Optimize Query
+92. Partitioning
+93. N + 1 query problem
+94. GroupBy
+95. Normalization and Denormalization
+96. ACID principle
+97. Index in SQL
+98. SQL and NoSQL
+99. Delete and Drop and Truncate
+100. View and Stored Precessdure
+101. Primitive Type of TS
+102. Key benefit of TS
+103. Access Modifier in TS
+104. Generics in TS
+105. Feature of TS
+106. Interface
+107. Class in TS
+108. Decorator in TS
+109. Inheritance in TS
+110. Namespace in TS
+111. Mixins
+112. TS Declare Keyword
+113. Interface and Type in TS
+114. Enum in TS
+115. Declaration Merging
+116. Method Overriding in TS
+117. any type in TS
+118. unknown type in TS
+119. typeof Operator
+120. abstract class
+121. union types in TS
+122. Utility type in TS
+123. Prototype
+124. contextual typing
+125. type inference
+126. Microtask and Macrotask
+127. async and await
+128. Event Bubbling
+129. Promise and async/await
+130. deep copy and shallow copy
+131. Webpack and Babel
+132. let and constant
+133. Closure
+134. spread operator
+135. Temporal Dead Zone
+136. Hoisting
+137. Memoization
+138. Event bubbling and Event Capturing
+139. Anonymos function in JS
+140. Null and Undefined
+
+You have to rearrange these problems with the following conditions all at once:
+ Group problems by Tech Stack.
+ Reorder each problem.
+And for each problem
+ if the problem is compare problem, describe about the concepts of them in full sentence and compare them simply with pros and cons.
+ if the problem is question, just answer the problem in full sentence.
+ if the problem is conceptual one, describe about the concepts with full sentence, pros &        cons together simply.
+ And let me convert into document with concrete symbol.
+ All answer must be Spanish.

@@ -1,0 +1,8 @@
+AWS_ACCESS_KEY_ID: ASIA6ODU3VJGL7XP4KTH
+AWS_REGION: us-east-1
+AWS_SECRET_ACCESS_KEY: 0aTekOGCIjAP9QP+gs6xGMzrQLK2azfhYMUYu19V
+CLIENT: Civix
+CONFIG_SERVER_URL: http://localhost:8888
+DB_APP_PASSWORD: P@ssw0rd
+DB_FLYWAY_PASSWORD: you password from the comic book
+onramp.elections.repo.home: C:\CIVIX\PROJECTS
